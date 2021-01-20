@@ -1,5 +1,7 @@
 <h1>Welcome to My Github Account!</h1>
+
 ![counter](https://en82zzdykb6ji7x.m.pipedream.net)
+
 
 <p>
   <a href="https://discord.com/users/646945227772526592" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
