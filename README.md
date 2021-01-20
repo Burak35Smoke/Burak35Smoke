@@ -11,5 +11,5 @@
 <br>
 <p>
 <h1>My Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=Burak35Smoke&count_private=true&show_icons=true&theme=purple&hide_border=true" width="%100" height="150px" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Burak35Smoke&theme=radical&show_icons=true" width="%100" height="150px" alt="stats" />
 </p>
