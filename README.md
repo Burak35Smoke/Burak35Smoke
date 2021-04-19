@@ -10,7 +10,8 @@
   <a href="https://www.r10.net/profil/126637-pixeldev.html" target"blank_"><img src="https://i.ibb.co/0Y6JFXR/R10.png"></a>
 </p>
 <h1>Programming Languages I Work With;</h1>
-<a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-php-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue"></a>
+<a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
+<a href="https://www.php.net/" target"blank_"><img src="https://img.shields.io/badge/-php-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue"></a>
 
 <br>
 <p>
