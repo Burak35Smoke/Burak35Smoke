@@ -13,7 +13,7 @@
 <a href="https://nodejs.org/en/" target"blank_"><img src="https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A"></a>
 <a href="https://www.electronjs.org/" target"blank_"><img src="https://img.shields.io/badge/-electronjs-59ABE3?style=for-the-badge&labelColor=black&logo=electron&logoColor=59ABE3"></a>
 <a href="https://www.php.net/" target"blank_"><img src="https://img.shields.io/badge/-php-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=blue"></a>
-<a href="https://www.python.org/" target"blank_"><img src="https://img.shields.io/badge/-python-blue?style=for-the-badge&labelColor=black&logo=python&logoColor=22A7F0"></a>
+<a href="https://www.python.org/" target"blank_"><img src="https://img.shields.io/badge/-python-4B77BE?style=for-the-badge&labelColor=black&logo=python&logoColor=4B77BE"></a>
 <a href="https://getbootstrap.com/" target"blank_"><img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=purple"></a>
 
 <br>
